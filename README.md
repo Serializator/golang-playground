@@ -4,3 +4,6 @@ It also contains the various resources (documentation, blogs, videos etc) I used
 
 ## Blogs
 - [How do I Structure my Go Project? by Mark Wolfe's](https://www.wolfe.id.au/2020/03/10/how-do-i-structure-my-go-project/)
+
+## Docs
+- [Pointers vs Values](./docs/pointers-vs-values.md)
