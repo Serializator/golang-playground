@@ -7,3 +7,4 @@ It also contains the various resources (documentation, blogs, videos etc) I used
 
 ## Docs
 - [Pointers vs Values](./docs/pointers-vs-values.md)
+- [Method Receivers](./docs/method-receivers.md)
